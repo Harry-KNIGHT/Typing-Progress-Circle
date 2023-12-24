@@ -10,6 +10,11 @@ The simplicity and elegance of SwiftUI's Gauge made the process a delight. I fou
 
 <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/gifs/MaxCharCount.gif" width="200px">
 
+## Blog Post
+
+I wrote a blog post about this feature: [Enhancing User Engagement: Utilizing Apple's Gauge for Dynamic Character Monitoring in SwiftUI
+](https://dubdub.space/elliot/enhancing-user-engagement-utilizing-apples-gauge-for-o)
+
 ## Contact
 
 Feel free to reach out to me via email at [elliot.knight@appiwedia.com](mailto:elliot.knight@appiwedia.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elliot-knight-appiwedia/) for any inquiries or discussions.
